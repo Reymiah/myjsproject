@@ -6,3 +6,7 @@ str
 
 
 console.log(moveCharsForward('abcd'))
+
+
+
+console.log("Hello World!")
